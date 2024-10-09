@@ -1,0 +1,21 @@
+h2{
+    color: black;
+
+text-align: center;
+    padding-left: 16px;
+}
+a {
+    text-align: 2px;
+}
+
+img{
+    width: 32rem;
+padding-right: 65px;
+}
+h2{
+    text-align: inherit;
+}
+
+div{
+margin: 1rem;
+}
